@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://redmamba63.github.io/qui-possede-site/sitemap.xml
