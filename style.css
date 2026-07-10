@@ -27,8 +27,23 @@ h1{font-size:32px;line-height:1.15;margin:18px 0 10px}
 h2{font-size:20px}
 .bc{font-size:13px;color:var(--gris);margin:18px 0 0}
 .lead{font-size:17px;color:#374151}
+.search-wrap{position:relative;margin:22px 0 20px}
 .search{width:100%;padding:13px 15px;font-size:16px;border:1px solid var(--bord);
-  border-radius:10px;margin:22px 0 14px}
+  border-radius:10px;margin:0}
+.suggestions{position:absolute;left:0;right:0;top:calc(100% + 4px);z-index:20;
+  list-style:none;margin:0;padding:6px;background:#fff;border:1px solid var(--bord);
+  border-radius:10px;box-shadow:0 12px 34px rgba(0,0,0,.14);max-height:360px;overflow:auto}
+.suggestions li{display:flex;align-items:center;justify-content:space-between;gap:12px;
+  padding:9px 12px;border-radius:7px;cursor:pointer}
+.suggestions li:hover,.suggestions li.active{background:var(--bg)}
+.suggestions .sl{font-weight:600}
+.suggestions .st{font-size:11px;color:var(--gris);border:1px solid var(--bord);
+  border-radius:999px;padding:1px 9px;white-space:nowrap}
+.own-sec{margin:20px 0}
+.own-h{display:flex;align-items:center;gap:10px;margin:0 0 8px;flex-wrap:wrap}
+.own-nom{font-size:17px;font-weight:800;color:var(--enc)}
+a.own-nom:hover{color:var(--rouge)}
+.own-h .n{color:var(--gris);font-size:13px}
 .cat-h{display:flex;align-items:center;gap:8px;margin:28px 0 10px;font-size:15px;
   text-transform:uppercase;letter-spacing:.4px}
 .cat-h .n{color:var(--gris);font-weight:400;text-transform:none}
