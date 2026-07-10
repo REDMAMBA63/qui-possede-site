@@ -39,12 +39,13 @@ h2{font-size:20px}
 .suggestions .sl{font-weight:600}
 .suggestions .st{font-size:11px;color:var(--gris);border:1px solid var(--bord);
   border-radius:999px;padding:1px 9px;white-space:nowrap}
-.own-sec{margin:20px 0}
-.own-h{display:flex;align-items:center;gap:10px;margin:0 0 8px;flex-wrap:wrap}
-.own-nom{font-size:17px;font-weight:800;color:var(--enc)}
+.cat-block{margin:34px 0 0}
+.own-sec{margin:14px 0;padding-left:14px;border-left:3px solid var(--bord)}
+.own-h{display:flex;align-items:baseline;gap:10px;margin:0 0 8px;flex-wrap:wrap}
+.own-nom{font-size:16px;font-weight:800;color:var(--enc)}
 a.own-nom:hover{color:var(--rouge)}
 .own-h .n{color:var(--gris);font-size:13px}
-.cat-h{display:flex;align-items:center;gap:8px;margin:28px 0 10px;font-size:15px;
+.cat-h{display:flex;align-items:center;gap:8px;margin:0 0 6px;font-size:15px;
   text-transform:uppercase;letter-spacing:.4px}
 .cat-h .n{color:var(--gris);font-weight:400;text-transform:none}
 .liste{display:flex;flex-direction:column;gap:6px}
