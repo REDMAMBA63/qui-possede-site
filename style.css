@@ -39,15 +39,29 @@ h2{font-size:20px}
 .suggestions .sl{font-weight:600}
 .suggestions .st{font-size:11px;color:var(--gris);border:1px solid var(--bord);
   border-radius:999px;padding:1px 9px;white-space:nowrap}
-.cat-block{margin:34px 0 0}
-.own-sec{margin:14px 0;padding-left:14px;border-left:3px solid var(--bord)}
-.own-h{display:flex;align-items:baseline;gap:10px;margin:0 0 8px;flex-wrap:wrap}
-.own-nom{font-size:16px;font-weight:800;color:var(--enc)}
-a.own-nom:hover{color:var(--rouge)}
-.own-h .n{color:var(--gris);font-size:13px}
-.cat-h{display:flex;align-items:center;gap:8px;margin:0 0 6px;font-size:15px;
-  text-transform:uppercase;letter-spacing:.4px}
-.cat-h .n{color:var(--gris);font-weight:400;text-transform:none}
+#annuaire{margin-top:20px;display:flex;flex-direction:column;gap:12px}
+summary{cursor:pointer;list-style:none;user-select:none}
+summary::-webkit-details-marker{display:none}
+.chev{margin-left:auto;color:var(--gris);font-size:22px;line-height:1;
+  transition:transform .2s ease}
+details[open]>summary .chev{transform:rotate(90deg)}
+.cat-block{border:1px solid var(--bord);border-radius:12px;background:#fff;overflow:hidden}
+.cat-h{display:flex;align-items:center;gap:10px;padding:15px 18px;font-size:14px;
+  font-weight:800;text-transform:uppercase;letter-spacing:.4px}
+.cat-h:hover{background:var(--bg)}
+.cat-h .cat-lab{display:flex;align-items:center;gap:8px}
+.cat-h .n{color:var(--gris);font-weight:600;text-transform:none;letter-spacing:0;
+  font-size:12px;margin-left:12px}
+.cat-body{padding:4px 16px 12px}
+.own-sec{border-top:1px solid var(--bord)}
+.cat-body>.own-sec:first-child{border-top:0}
+.own-h{display:flex;align-items:center;gap:10px;padding:12px 2px}
+.own-nom{font-size:15px;font-weight:700;color:var(--enc)}
+.own-h:hover .own-nom{color:var(--rouge)}
+.own-h .n{color:var(--gris);font-size:13px;font-weight:400}
+.own-page{display:inline-block;margin-top:6px;font-size:13px;font-weight:600}
+.cat-body>.liste{padding-top:8px}
+.own-sec .liste{padding:2px 0 12px}
 .liste{display:flex;flex-direction:column;gap:6px}
 .row{display:flex;align-items:center;justify-content:space-between;gap:12px;
   padding:10px 14px;border:1px solid var(--bord);border-radius:9px;background:#fff}
