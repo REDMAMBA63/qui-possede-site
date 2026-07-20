@@ -17,6 +17,7 @@ header.site .nav-cta{font-size:14px;font-weight:600;border:1px solid rgba(255,25
 .hero h1{font-size:42px;line-height:1.12;margin:0 0 14px}
 .hero p{font-size:18px;color:#374151;max-width:640px;margin:0 auto 26px}
 .cta{display:flex;gap:12px;justify-content:center;flex-wrap:wrap}
+.cta-note{text-align:center;margin:10px 0 0;font-size:14px;color:var(--gris)}
 .btn{display:inline-block;padding:12px 20px;border-radius:10px;font-weight:700;
   border:1px solid var(--rouge)}
 .btn.primary{background:var(--rouge);color:#fff}
