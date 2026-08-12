@@ -13,6 +13,9 @@ header.site .wrap{display:flex;align-items:center;justify-content:space-between;
 header.site a{color:#fff;font-weight:800;font-size:18px}
 header.site .nav-cta{font-size:14px;font-weight:600;border:1px solid rgba(255,255,255,.6);
   padding:6px 12px;border-radius:8px}
+/* margin-left:auto pousse le lien et le bouton à droite malgré space-between,
+   qui sinon écarterait les trois éléments à intervalles égaux. */
+header.site .nav-lien{font-size:14px;font-weight:600;margin-left:auto}
 .hero{padding:56px 0 34px;text-align:center;background:linear-gradient(#fff,var(--bg))}
 .hero h1{font-size:42px;line-height:1.12;margin:0 0 14px}
 .hero p{font-size:18px;color:#374151;max-width:640px;margin:0 auto 26px}
@@ -82,6 +85,14 @@ details[open]>summary .chev{transform:rotate(90deg)}
 .install-inline p{color:#374151;margin:0 0 16px}
 .install-inline .cta{justify-content:center}
 .vide{color:var(--gris);padding:16px 0}
+/* Nouveautés — un billet Mastodon par carte (pas de titre, ils n'en ont pas) */
+.nouv{display:flex;flex-direction:column;gap:16px;margin:22px 0}
+.nouv-item{border:1px solid var(--bord);border-radius:14px;padding:18px 22px;background:#fff}
+.nouv-date{margin:0 0 10px;font-size:13px;font-weight:700;color:var(--gris);
+  text-transform:uppercase;letter-spacing:.4px}
+.nouv-corps p{margin:0 0 10px}
+.nouv-corps p:last-child{margin-bottom:0}
+.nouv-lien{margin:14px 0 0;font-size:14px;font-weight:600}
 footer.site{border-top:1px solid var(--bord);color:var(--gris);font-size:13px;
   padding:26px 0;margin-top:44px}
 footer.site a{color:var(--rouge)}
