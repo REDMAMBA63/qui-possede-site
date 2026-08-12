@@ -1,5 +1,5 @@
 /* Qui possède ? — site public */
-:root{--rouge:#c0201c;--enc:#111827;--gris:#6b7280;--bord:#e6e6e9;--bg:#f7f7f8}
+:root{--rouge:#c0201c;--bleu:#1a4fb4;--enc:#111827;--gris:#6b7280;--bord:#e6e6e9;--bg:#f7f7f8}
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
 body{margin:0;color:var(--enc);background:#fff;line-height:1.55;
@@ -11,11 +11,11 @@ header.site{background:var(--rouge);color:#fff}
 header.site .wrap{display:flex;align-items:center;justify-content:space-between;
   gap:12px;padding:12px 20px}
 header.site a{color:#fff;font-weight:800;font-size:18px}
-header.site .nav-cta{font-size:14px;font-weight:600;border:1px solid rgba(255,255,255,.6);
-  padding:6px 12px;border-radius:8px}
-/* margin-left:auto pousse le lien et le bouton à droite malgré space-between,
-   qui sinon écarterait les trois éléments à intervalles égaux. */
-header.site .nav-lien{font-size:14px;font-weight:600;margin-left:auto}
+/* Bouton d'en-tête : mène à « Nos actualités ». En bleu plein plutôt qu'en texte
+   bleu — sur le bandeau rouge, du texte bleu serait illisible. */
+header.site .nav-cta{font-size:14px;font-weight:600;background:var(--bleu);
+  border:1px solid var(--bleu);color:#fff;padding:6px 12px;border-radius:8px}
+header.site .nav-cta:hover{background:#153f92;border-color:#153f92;text-decoration:none}
 .hero{padding:56px 0 34px;text-align:center;background:linear-gradient(#fff,var(--bg))}
 .hero h1{font-size:42px;line-height:1.12;margin:0 0 14px}
 .hero p{font-size:18px;color:#374151;max-width:640px;margin:0 auto 26px}
