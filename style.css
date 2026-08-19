@@ -1,4 +1,4 @@
-/* Qui possède ? — site public */
+/* Qui possède ? : site public */
 :root{--rouge:#c0201c;--bleu:#1a4fb4;--enc:#111827;--gris:#6b7280;--bord:#e6e6e9;--bg:#f7f7f8}
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
@@ -12,7 +12,7 @@ header.site .wrap{display:flex;align-items:center;justify-content:space-between;
   gap:12px;padding:12px 20px}
 header.site a{color:#fff;font-weight:800;font-size:18px}
 /* Bouton d'en-tête : mène à « Nos actualités ». En bleu plein plutôt qu'en texte
-   bleu — sur le bandeau rouge, du texte bleu serait illisible. */
+   bleu : sur le bandeau rouge, du texte bleu serait illisible. */
 header.site .nav-cta{font-size:14px;font-weight:600;background:var(--bleu);
   border:1px solid var(--bleu);color:#fff;padding:6px 12px;border-radius:8px}
 header.site .nav-cta:hover{background:#153f92;border-color:#153f92;text-decoration:none}
@@ -90,7 +90,7 @@ details[open]>summary .chev{transform:rotate(90deg)}
 .install-inline p{color:#374151;margin:0 0 16px}
 .install-inline .cta{justify-content:center}
 .vide{color:var(--gris);padding:16px 0}
-/* Nouveautés — un billet Mastodon par carte (pas de titre, ils n'en ont pas) */
+/* Nouveautés : un billet Mastodon par carte (pas de titre, ils n'en ont pas) */
 .nouv{display:flex;flex-direction:column;gap:16px;margin:22px 0}
 .nouv-item{border:1px solid var(--bord);border-radius:14px;padding:18px 22px;background:#fff}
 .nouv-date{margin:0 0 10px;font-size:13px;font-weight:700;color:var(--gris);
