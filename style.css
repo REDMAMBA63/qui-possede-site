@@ -1,4 +1,12 @@
 /* Qui possède ? : site public */
+/* Tableaux des pages légales. `.tableau` défile seul pour que la page, elle,
+   ne parte jamais en travers sur un écran étroit. */
+.tableau { overflow-x: auto; margin: 1.2rem 0; }
+.tableau table { border-collapse: collapse; width: 100%; min-width: 34rem; font-size: .95rem; }
+.tableau th, .tableau td { border: 1px solid #d8d8d8; padding: .55rem .7rem; text-align: left; vertical-align: top; }
+.tableau th { background: #f4f4f4; font-weight: 600; }
+blockquote { margin: 1.2rem 0; padding: .1rem 1rem; border-left: 3px solid #d8d8d8; color: #444; }
+
 :root{--rouge:#c0201c;--bleu:#1a4fb4;--enc:#111827;--gris:#6b7280;--bord:#e6e6e9;--bg:#f7f7f8}
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}

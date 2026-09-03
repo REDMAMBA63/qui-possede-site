@@ -802,4 +802,7 @@
   <url><loc>https://quipossede.fr/index.html</loc><priority>1.0</priority></url>
   <url><loc>https://quipossede.fr/nouveautes.html</loc><priority>0.7</priority></url>
   <url><loc>https://quipossede.fr/reutilisation.html</loc><priority>0.5</priority></url>
+  <url><loc>https://quipossede.fr/legal/confidentialite.html</loc><priority>0.3</priority></url>
+  <url><loc>https://quipossede.fr/legal/mentions.html</loc><priority>0.3</priority></url>
+  <url><loc>https://quipossede.fr/legal/cgv.html</loc><priority>0.3</priority></url>
 </urlset>
