@@ -2,4 +2,4 @@
 
 Site vitrine + SEO de l'extension. **Généré** par `build_site.py` du dépôt `qui-poss-de`. Ne pas éditer les fichiers HTML à la main.
 
-En ligne : https://redmamba63.github.io/qui-possede-site/
+En ligne : https://quipossede.fr/
