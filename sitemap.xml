@@ -18,6 +18,7 @@
   <url><loc>https://quipossede.fr/m/administrations-de-l-etat-gouv-fr.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/africa-radio.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/agence-france-presse.html</loc><priority>0.6</priority></url>
+  <url><loc>https://quipossede.fr/m/aj.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/al-arabiya.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/al-jazeera.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/aleteia.html</loc><priority>0.6</priority></url>
@@ -83,10 +84,12 @@
   <url><loc>https://quipossede.fr/m/charlie-hebdo.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/charts-in-france.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/choses-a-savoir.html</loc><priority>0.6</priority></url>
+  <url><loc>https://quipossede.fr/m/chut.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/cherie-fm.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/clique-tv.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/closer.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/clubic.html</loc><priority>0.6</priority></url>
+  <url><loc>https://quipossede.fr/m/clutch.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/cnet-france.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/cnews.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/cnn.html</loc><priority>0.6</priority></url>
@@ -191,6 +194,7 @@
   <url><loc>https://quipossede.fr/m/ign-france.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/imaz-press-reunion.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/impots-impots-gouv-fr.html</loc><priority>0.6</priority></url>
+  <url><loc>https://quipossede.fr/m/ina-institut-national-de-l-audiovisuel.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/iphon-fr.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/it-connect.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/jazz-radio.html</loc><priority>0.6</priority></url>
@@ -379,6 +383,7 @@
   <url><loc>https://quipossede.fr/m/meduza.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/melody.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/melty.html</loc><priority>0.6</priority></url>
+  <url><loc>https://quipossede.fr/m/merci-pour-l-info.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/midi-libre.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/mieux-vivre-votre-argent.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/milan-presse.html</loc><priority>0.6</priority></url>
@@ -403,6 +408,7 @@
   <url><loc>https://quipossede.fr/m/next.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/nice-matin.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/nofi.html</loc><priority>0.6</priority></url>
+  <url><loc>https://quipossede.fr/m/nofrag.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/noovo-info.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/nord-littoral.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/nord-eclair.html</loc><priority>0.6</priority></url>
@@ -415,6 +421,7 @@
   <url><loc>https://quipossede.fr/m/nrj.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/numerama.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/neon.html</loc><priority>0.6</priority></url>
+  <url><loc>https://quipossede.fr/m/observatoire-des-multinationales.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/observatoire-du-journalisme-ojim.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/ods-radio.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/off-investigation.html</loc><priority>0.6</priority></url>
@@ -495,6 +502,7 @@
   <url><loc>https://quipossede.fr/m/regal.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/revolution-permanente.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/revolution-energetique.html</loc><priority>0.6</priority></url>
+  <url><loc>https://quipossede.fr/m/sans-dependances.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/sante-magazine.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/saphirnews.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/saveurs.html</loc><priority>0.6</priority></url>
@@ -516,6 +524,7 @@
   <url><loc>https://quipossede.fr/m/splann.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/sport-auto.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/sport-fr.html</loc><priority>0.6</priority></url>
+  <url><loc>https://quipossede.fr/m/spotlighted.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/strategies.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/streetpress.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/sud-ouest.html</loc><priority>0.6</priority></url>
@@ -567,6 +576,7 @@
   <url><loc>https://quipossede.fr/m/tv7-bordeaux.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/tva-nouvelles.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/tvr.html</loc><priority>0.6</priority></url>
+  <url><loc>https://quipossede.fr/m/twitch.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/tebeo.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/tebesud.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/m/tele-7-jours.html</loc><priority>0.6</priority></url>
@@ -619,6 +629,7 @@
   <url><loc>https://quipossede.fr/p/albert-moux.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/p/alibaba-group.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/p/alpac-capital-fonds-portugais.html</loc><priority>0.6</priority></url>
+  <url><loc>https://quipossede.fr/p/amazon-com-inc.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/p/apollo-global-management.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/p/ariane-artinian.html</loc><priority>0.6</priority></url>
   <url><loc>https://quipossede.fr/p/ariane-de-rothschild.html</loc><priority>0.6</priority></url>
